@@ -1,0 +1,2 @@
+Hello, this is demo file. It contains sample text for file handling utility.
+Appending a new line to the existing file content.
